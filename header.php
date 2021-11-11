@@ -27,6 +27,7 @@
 
 
 <header>
+    <h1 class="logo">Logo</h1>
     <nav>
         <ul class="menu">
             <?php

@@ -1,5 +1,9 @@
+:root {
+    --primary-clr: black;
+}
+
 nav {
-    background: black;
+    background: var(--primary-clr);
     padding: 1px 10px;
 }
 
